@@ -57,7 +57,7 @@ ryllslimp/
 
 ## 📸 Preview do projeto
 
-![RyllsLimp](./src/assets/preview.png)
+![RyllsLimp](./src/assets/img/preview-RyllsLimp.png)
 
 ---
 
