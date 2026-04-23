@@ -67,13 +67,6 @@ ryllslimp/
 
 ---
 
-## 📞 Contato
-
-* WhatsApp: (11) 4752-4094
-* Instagram: @ryllslymp
-
----
-
 ## 📌 Status
 
 🚧 Projeto em desenvolvimento / melhorias contínuas
